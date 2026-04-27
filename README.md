@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/eb49e2ba-bed7-4a4a-94d5-49b12cd6b62f
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+# 🚀 Flow-Designer Pro - 高質感流程圖產生器
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+這是為 IT 流程與 SOP 設計的高質感視覺化工具，支援一鍵生成現代化、玻璃擬態風格的流程圖卡片。
+
+## ✨ 核心特色
+* **🎨 現代化視覺**：玻璃擬態 (Glassmorphism) 設計。
+* **🛠️ 高度自定義**：支援橫向/縱向切換、字體大小精細調整。
+* **🔍 智慧圖示**：整合 Lucide Icons，支援手動輸入名稱自動帶出。
+* **📸 圖片匯出**：一鍵產出高品質 PNG 圖檔。
+
+## 🚀 快速啟動
+如果你想在本地修改這個專案：
+1. **安裝依賴**：`npm install`
+2. **啟動預覽**：`npm run dev`
+3. **發布更新**：`npm run deploy`
+
+## 🛠️ 技術棧
+* **Framework**: React 19 + Vite
+* **Styling**: Tailwind CSS 4
+* **Icons**: Lucide React
+
+---
+※ 本工具僅供內部流程規劃參考使用。
