@@ -1,0 +1,6 @@
+{
+  "name": "flow-designer",
+  "description": "這是一個能讓使用者藉由自行新增修改步驟，來產出流程圖的工具。支援自訂色彩、圖示、以及產出 PNG 圖片匯出的功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
